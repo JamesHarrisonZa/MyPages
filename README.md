@@ -2,4 +2,7 @@
 
 https://jamesharrisonza.github.io/MyPages/
 
-More to come soon™
+##Sections
+* Cooking
+* Health
+* Software
