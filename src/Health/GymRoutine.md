@@ -71,5 +71,3 @@ Inner Thigh abductor 35kg
 
 Leg Extension. 40kg
 https://www.freetrainers.com/exercise/exercise/leg_extensions/
-
-{"gitdown": "navigation"}

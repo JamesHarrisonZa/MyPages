@@ -21,5 +21,3 @@
 * Can add some parsley to finish  
 
 {"gitdown": "video:youtube", "url": "https://www.youtube.com/watch?v=K_iS5O88ISk", "collapse": true}
-
-{"gitdown": "navigation"}

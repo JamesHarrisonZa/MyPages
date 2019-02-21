@@ -1,10 +1,12 @@
-# Cooking
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
+# Sushi
 
-📄 [ChickenAndMushrooms.md](ChickenAndMushrooms.md)
+# Sushi
 
-📄 [Sushi.md](Sushi.md)
+## Rice
 
+https://www.youtube.com/watch?v=-eed1Kz-3DE
 ---
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
