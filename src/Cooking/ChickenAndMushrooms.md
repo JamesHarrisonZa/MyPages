@@ -20,5 +20,4 @@
 * When the butter has disolved you are done  
 * Can add some parsley to finish  
 
-
-<iframe width="800" height="600" src="http://www.youtube.com/embed/K_iS5O88ISk" frameborder="0" allowfullscreen></iframe>  
+{"gitdown": "video:youtube", "url": "https://www.youtube.com/watch?v=K_iS5O88ISk", "collapse": true}
