@@ -6,27 +6,7 @@ Start with a 15 minute run. Aim for 3km
 ## 1: Biceps / Triceps / Shoulders
 
 Standing Dumbbell Curls 10kg  
-<details>
-<summary>https://www.freetrainers.com/exercise/exercise/standing_dumbbell_curls/</summary>
-<blockquote cite="https://www.freetrainers.com/exercise/exercise/standing_dumbbell_curls/" style="padding-top:2px;padding-bottom:2px;">
-	<section>
-		<img src="" width="16" height="16">
-		<i>www.freetrainers.com</i>
-	</section>
-	<section>
-		<a href="https://www.freetrainers.com/exercise/exercise/standing_dumbbell_curls/">
-			<b>Standing Dumbbell Curls - Exercise Technique & Definition - FreeTrainers.com</b>
-		</a>
-	</section>
-	<section>
-		Complete 
-  Standing Dumbbell Curls exercise description, benefits, function and proper movement execution details.
-	</section>
-	<section>
-		<img src="https://www.freetrainers.com/image/p/gquRzI5jGiWcDMM9z6-2gz0TeNxGatqLcwW2lyhN3QA=.png">
-	</section>
-</blockquote>
-</details>
+https://www.freetrainers.com/exercise/exercise/standing_dumbbell_curls/
 
 Triceps Cable Pushdowns 35kg  
 https://www.freetrainers.com/exercise/exercise/triceps_cable_pushdowns/
