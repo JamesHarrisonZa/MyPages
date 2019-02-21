@@ -28,3 +28,6 @@
 </div>
 	</blockquote>
 </details>
+
+---
+🔺 [Up](../index.md)
