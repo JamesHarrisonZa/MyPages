@@ -3,6 +3,6 @@
 https://jamesharrisonza.github.io/MyPages/
 
 # Sections
-* ## Cooking
-* ## Health
+* ## [Cooking](https://jamesharrisonza.github.io/MyPages/Cooking)
+* ## [Health](https://jamesharrisonza.github.io/MyPages/Health/)
 * ## Software
