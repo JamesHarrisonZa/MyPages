@@ -2,7 +2,7 @@
 
 https://jamesharrisonza.github.io/MyPages/
 
-##Sections
-* Cooking
-* Health
-* Software
+# Sections
+* ## Cooking
+* ## Health
+* ## Software
