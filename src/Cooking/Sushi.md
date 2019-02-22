@@ -1,4 +1,5 @@
-# Rice
+
+## Rice
 
 ### Ingredients
 * Short grain sushi rice
@@ -24,7 +25,7 @@
 {"gitdown": "video:youtube", "url": "https://www.youtube.com/watch?v=U-d37LWz1OY", "collapse": true}  
 
 
-# Maki 
+## Maki 
 
 ### Ingredients
 * Seaweed sheet
@@ -41,7 +42,7 @@
 {"gitdown": "video:youtube", "url": "https://www.youtube.com/watch?v=R6mlUxxf4ao", "collapse": true}  
 
 
-# Serving
+## Serving
 * Soy sauce
 * Wasabi 
-* Pickled ginger 
+* Pickled ginger  

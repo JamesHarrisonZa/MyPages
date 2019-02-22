@@ -1,7 +1,7 @@
 # Health
 
 
-📄 [Gym Routine.md](Gym%20Routine.md)
+📄 [GymRoutine.md](GymRoutine.md)
 
 📄 [Nutrition.md](Nutrition.md)
 

@@ -1,7 +1,7 @@
 # Cooking
 
 
-📄 [Chicken and mushrooms.md](Chicken%20and%20mushrooms.md)
+📄 [Chicken&Mushrooms.md](Chicken%26Mushrooms.md)
 
 📄 [Sushi.md](Sushi.md)
 
