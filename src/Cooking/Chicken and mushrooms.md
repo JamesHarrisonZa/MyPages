@@ -1,5 +1,3 @@
-# Chicken with mushroom pan jus
-
 ## Ingredients
 * 2 Chicken Breasts with the skin on them  
 * Button mushrooms  
