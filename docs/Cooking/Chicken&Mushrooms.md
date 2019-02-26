@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-
 # Chicken&Mushrooms
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 
 ## Ingredients
@@ -24,18 +24,17 @@
 * Can add some parsley to finish  
 
 <details>
-	<summary>https://www.youtube.com/watch?v=K_iS5O88ISk</summary>
-	<blockquote cite="https://www.youtube.com/watch?v=K_iS5O88ISk" style="padding-top:2px;padding-bottom:2px;">
-		<div align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/K_iS5O88ISk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <summary>https://www.youtube.com/watch?v=K_iS5O88ISk</summary>
+    <blockquote cite="https://www.youtube.com/watch?v=K_iS5O88ISk" style="padding-top:2px;padding-bottom:2px;">
+        <div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/K_iS5O88ISk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-	</blockquote>
+    </blockquote>
 </details>
 
----
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
-[<i class="fas fa-arrow-circle-up"></i> Up](../index.md)
-[<i class="fas fa-arrow-circle-left"></i> Back](index.md)
-[<i class="fas fa-home"></i> Home](/index.md)
+---
+[<i class="fas fa-arrow-circle-up"></i> Up](../index)
+[<i class="fas fa-arrow-circle-left"></i> Back](index)
+[<i class="fas fa-home"></i> Home](/index)
 <a href="#top"><i class="fas fa-asterisk"></i> Top</a>

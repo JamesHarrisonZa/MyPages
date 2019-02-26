@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-
 # GymRoutine
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 
 3 days. Repeat twice a week.  
@@ -75,10 +75,9 @@ Inner Thigh abductor 35kg
 Leg Extension. 40kg
 https://www.freetrainers.com/exercise/exercise/leg_extensions/
 
----
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
-[<i class="fas fa-arrow-circle-up"></i> Up](../index.md)
-[<i class="fas fa-arrow-circle-left"></i> Back](index.md)
-[<i class="fas fa-home"></i> Home](/index.md)
+---
+[<i class="fas fa-arrow-circle-up"></i> Up](../index)
+[<i class="fas fa-arrow-circle-left"></i> Back](index)
+[<i class="fas fa-home"></i> Home](/index)
 <a href="#top"><i class="fas fa-asterisk"></i> Top</a>
