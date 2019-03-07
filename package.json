@@ -11,6 +11,6 @@
 	"license": "ISC",
 	"dependencies": {},
 	"devDependencies": {
-		"markdown-preprocessor": "^2.2.1"
+		"markdown-preprocessor": "^2.5.1"
 	}
 }
