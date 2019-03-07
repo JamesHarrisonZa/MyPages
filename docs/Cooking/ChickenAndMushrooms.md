@@ -14,11 +14,17 @@
 * Butter  
 * Stainless Steel pan that can go in the oven  
 
+## Bonus Sauce Ingredients
+* Garlic
+* 1 tablespoon soy sauce
+* 3 teaspoons chutney
+* Fresh herbs such as chives
+
 ## Steps
 * Salt & Pepper generously both sides of the chicken  
 * Stove on medium-high. Olive oil  
 * Sear the chicken, skin side down for **5 minutes**  
-* Turn the chicken over, add the mushrooms, turn heat up a notch higher  * for another 5 minutes  
+* Turn the chicken over, add the mushrooms, turn heat up a notch higher for another **5 minutes**  
 * Place pan in oven at 160 for **15-20 minutes**  
 * Out the oven. Remove chicken and cover with foil. Rest for 10 minutes  
 * Stove on medium-high. Cook mushrooms for another **5 minutes**  
