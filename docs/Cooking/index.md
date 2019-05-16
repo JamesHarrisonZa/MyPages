@@ -9,6 +9,8 @@
 
 📄 [ChickenAndMushrooms](ChickenAndMushrooms.md)
 
+📄 [ChickenTikkaMasala](ChickenTikkaMasala.md)
+
 📄 [Sushi](Sushi.md)
 
 
