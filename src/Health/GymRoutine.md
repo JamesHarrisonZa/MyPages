@@ -1,24 +1,24 @@
 
 * 3 days. Repeat twice a week.  
-* Start with a 15 minute run. Aim for 3km
+* Start with a run. Aim for 3km in 15 minutes  
   
-
+  
 ## 1: Biceps / Triceps / Shoulders
   
   
-### Standing Dumbbell Curls **10kg**
+### Standing Dumbbell Curls
 <a name="Standing Dumbbell Curls">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_5ExTeo_KnjF5ZoJum6IjxaHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/standing_dumbbell_curls/)</a>
   
-### Triceps Cable Pushdowns **35kg**
+### Triceps Cable Pushdowns
 <a name="Triceps Cable Pushdowns">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_6n-YnoOY8HQGX9tq49hlaKHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/triceps_cable_pushdowns/)</a>
   
-### Standing Two Hand Cable Curls **35kg**
+### Standing Two Hand Cable Curls
 <a name="Standing Two Hand Cable Curls">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_8ou76S0poHYkSZo1-EU3Y6HBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/standing_two_hand_cable_curls/)</a>
   
 ### Reverse Grip Triceps Cable Pushdowns  
 No picture yet. But do it!
   
-### Seated Dumbbell Presses **12kg**
+### Seated Dumbbell Presses
 <a name="Seated Dumbbell Presses">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_yPECkY6zRn_HM8gsly9aH2HBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/seated_dumbbell_presses/)</a>
   
 ### Standing Lateral Raises  
@@ -53,26 +53,26 @@ No picture yet. But do it!
 ## 3: Back/ Legs
   
   
-### Barbell shrugs **12.5kg** each side  easy
+### Barbell shrugs
 <a name="Barbell shrugs">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_y9_6fFRgceHIzCEOZHs21mHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/barbell_shrugs/)</a>
   
-### Standing Deadlift **20kg** each side
+### Standing Deadlift
 <a name="Standing Deadlift">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_8ozwXjpa6Bpbo-6fZMvJlCHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/deadlifts/)</a>
   
-### Dumbbell row **12kg**
+### Dumbbell row 
 <a name="Dumbbell row">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_wEaXPH5f36iHd5u7t_Q33SHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/one_arm_dumbbell_rows/)</a>
   
-### Pullups. **14kg**
+### Pullups
 <a name="Pullups">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_5er56oATsakl8OETKlvE5yHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/machine_assisted_wide_grip_chins/)</a>
   
-### Barbell squats **12.5kg each side**  
+### Barbell squats 
 <a name="Barbell squats">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_3g3pBgK0_yMezur0LJycGSHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/barbell_squats/)</a>
   
-### Standing calf raise machine. **70kgs**
+### Standing calf raise machine
 <a name="Standing calf raise machine">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_2K2lda5zo-o6Y5rwt7kiiyHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/machine_standing_calf_raises/)</a>
   
-### Inner Thigh abductor **35kg**
+### Inner Thigh abductor
 <a name="Inner Thigh abductor">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_9r8GLUF0klInv39cOvjIJmHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/inner_thighs_machine/)</a>
   
-### Leg Extension. **40kg**
+### Leg Extension
 <a name="Leg Extension">[<img src="https://www.freetrainers.com/image/e9VHSB2cORX102jus_vG_-Y8e1MKYFQi1bO4RNrYWWaHBhJqi3vmJqGaje3U2In-.jpg" height="300px" />](https://www.freetrainers.com/exercise/exercise/leg_extensions/)</a>
